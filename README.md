@@ -1,5 +1,4 @@
-# first page on my portfolio
+# First page on my portfolio
 
 Online resume for my software engineering career
 
-## about me 
