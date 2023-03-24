@@ -32,17 +32,23 @@ img {margin: 15px;
     display:block;
     margin-left: auto;
     margin-right: auto;
-    width: 20%
+    width: 60%
 }
 
 body {
-    margin:15px;
+    margin: 0px;
     background-color: antiquewhite;
+        background:antiquewhite;
+        padding: 0px;
+      }
 
-} 
+main {
+    max-width: 500px;
+    margin: auto;
+}
 
 .header {
-    margin:15px;
+    width: 100%;
     padding: 10px;
     text-align: center;
     background-color: beige;
@@ -68,4 +74,11 @@ a {
     outline: none;
 
 }
+ footer {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    background-color: beige;
+ }
+  
 
